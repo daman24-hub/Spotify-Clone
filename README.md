@@ -13,10 +13,10 @@ A simple Spotify web clone built using HTML and CSS, replicating the look and fe
 •⁠  ⁠CSS3 (Flexbox, Grid)
 
 ## Screenshot
-![Home Page](assets/homepage.png)
+![Home Page](homepage.png)
 
 ## Live Demo
-https://ssnehatiwari21.github.io/spotify-clone/
+https://daman24-hub.github.io/Spotify-Clone/
 
 ##  How to Run
 1.⁠ ⁠Clone the repository
