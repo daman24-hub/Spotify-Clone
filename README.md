@@ -23,5 +23,5 @@ https://ssnehatiwari21.github.io/spotify-clone/
 2.⁠ ⁠Open ⁠ index.html ⁠ in any modern browser
 
 ##  Author
-Sneha Tiwari  
-GitHub: https://github.com/ssnehatiwari21
+DAMAN
+GitHub: https://github.com/daman24-hub
